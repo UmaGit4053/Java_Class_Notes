@@ -16,7 +16,7 @@ public class Program3_ElseifCondition {
 		}
 		else if(num%5==0)
 		{
-			System.out.println("Multiple of 5"); // cannot print becoz of prvs condition was statishfied
+			System.out.println("Multiple of 5"); // cannot print becoz of Previous condition was true so next line is not executed
 		}
 		else
 		{
